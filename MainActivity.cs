@@ -28,12 +28,19 @@ namespace GenKeyUtil
                  if (lresult == SUCCESS)
                  {
                      lblSolution.Text = solution;
+                     txtEntry.Text = "";
                  }
                  else 
                  {
                      lblSolution.Text = "Failure";
                  }
              };
+
+            btnClear.Click += delegate
+            {
+                lblSolution.Text = "";
+                txtEntry.Text = "";
+            };
         }
 
         public short EnterRoutine(string entry, ref string solution)

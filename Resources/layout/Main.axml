@@ -19,6 +19,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btnStart" />
+    <Button
+        android:text="@string/build"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnClear" />
     <TextView
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_width="match_parent"
