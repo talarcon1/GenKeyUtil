@@ -17,7 +17,8 @@ namespace GenKeyUtil
             // Set our view from the "main" layout resource
              SetContentView (Resource.Layout.Main);
              Button btnStart = FindViewById<Button>(Resource.Id.btnStart);
-             EditText txtEntry = FindViewById<EditText>(Resource.Id.txtEntry);
+            Button btnClear = FindViewById<Button>(Resource.Id.btnClear);
+            EditText txtEntry = FindViewById<EditText>(Resource.Id.txtEntry);
              
              TextView lblSolution = FindViewById<TextView>(Resource.Id.lblSolution);
              btnStart.Click += delegate

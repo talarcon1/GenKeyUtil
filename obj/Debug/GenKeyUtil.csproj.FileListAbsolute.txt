@@ -36,4 +36,41 @@ c:\Users\Tim\Documents\Visual Studio 2013\Projects\GenKeyUtil\GenKeyUtil\obj\Deb
 c:\Users\Tim\Documents\Visual Studio 2013\Projects\GenKeyUtil\GenKeyUtil\obj\Debug\android\assets\System.Xml.dll.mdb
 c:\Users\Tim\Documents\Visual Studio 2013\Projects\GenKeyUtil\GenKeyUtil\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 c:\Users\Tim\Documents\Visual Studio 2013\Projects\GenKeyUtil\GenKeyUtil\obj\Debug\GenKeyUtil.dll.mdb
-c:\Users\Tim\Documents\Visual Studio 2013\Projects\GenKeyUtil\GenKeyUtil\bin\Debug\GenKeyUtil.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\GenKeyUtil.dll
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\GenKeyUtil.pdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\bin\Debug\GenKeyUtil.dll
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\bin\Debug\GenKeyUtil.pdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\bin\Debug\GenKeyUtil.GenKeyUtil.apk
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\bin\Debug\GenKeyUtil.GenKeyUtil-Signed.apk
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\android\bin\GenKeyUtil.GenKeyUtil.apk
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\res\layout\main.xml
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\res\values\strings.xml
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\res\drawable\icon.png
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\R.cs.flag
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\uploadflags.txt
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\bin\Debug\GenKeyUtil.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\bin\Debug\mscorlib.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\bin\Debug\System.Core.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\bin\Debug\System.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\bin\Debug\System.Xml.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\android\assets\GenKeyUtil.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\obj\Debug\GenKeyUtil.dll.mdb
+C:\Users\Tim Alarcon\Documents\GitHub\GenKeyUtil\bin\Debug\GenKeyUtil.dll.mdb

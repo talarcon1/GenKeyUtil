@@ -14,9 +14,10 @@ public final class R {
         public static final int icon=0x7f020000;
     }
     public static final class id {
+        public static final int btnClear=0x7f050003;
         public static final int btnStart=0x7f050002;
         public static final int lblDirections=0x7f050000;
-        public static final int lblSolution=0x7f050003;
+        public static final int lblSolution=0x7f050004;
         public static final int txtEntry=0x7f050001;
     }
     public static final class layout {
@@ -26,6 +27,7 @@ public final class R {
         public static final int ApplicationName=0x7f040001;
         public static final int Hello=0x7f040000;
         public static final int build=0x7f040002;
+        public static final int clear=0x7f040005;
         public static final int directions=0x7f040003;
         public static final int title=0x7f040004;
     }
